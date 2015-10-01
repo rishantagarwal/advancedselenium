@@ -1,9 +1,8 @@
 # Info
 
-This is a Java project that can be used as a template (or archetype) to start a WebDriver web browser testing project.  I chose to simplify and and implement using simply WebDriver and Gradle.<br/>
+This is a Java project that can be used as a template (or archetype) to start a WebDriver web browser testing project.  
+I chose to simplify and and implement using simply WebDriver and Gradle.<br/>
 
-Presentation is for "Portland Selenium Bootcamp 2013".  
-[PDX-SE Meetup Group](http://www.meetup.com/pdx-se/events/125285182/)
 
 Special thanks to the creator of Gradle, for having some good examples.
 [Ken Sipe](https://github.com/kensipe/gradle-samples)
